@@ -86,9 +86,20 @@ target="_blank"><img src="https://img.shields.io/badge/-Gmail-indianred?style=fo
 <br/>
 <br/>
 
-<div align="">
-  <img src="https://imgur.com/o6NOHiJ.gif" width="120">
+<div align="left">
+    <img 
+    width="150"
+    style="padding-right: 10px;"
+    src="https://imgur.com/mwJ3lvI.gif" 
+    />
+    <img 
+    width="120"
+    style="padding-right: 10px;"
+    src="https://imgur.com/YCbzXjz.gif" 
+    />
 </div>
+
+
 
 
 
