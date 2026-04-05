@@ -14,6 +14,14 @@ target="_blank"><img src="https://img.shields.io/badge/-Gmail-indianred?style=fo
 </div>
 
 ---
+**` 📊 Estatísticas `** 
+
+<div align="left">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauan-camacho&theme=tokyonight" width="500px" />
+
+</div>
+<br/>
 
 **`🤖 Hard skills`**
 
@@ -74,14 +82,15 @@ target="_blank"><img src="https://img.shields.io/badge/-Gmail-indianred?style=fo
     style="padding-right: 10px;"
     src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000"
 />
-
-
 <br/>
 <br/>
 <br/>
-
 
 <div align="">
   <img src="https://imgur.com/o6NOHiJ.gif" width="120">
 </div>
+
+
+
+
 
