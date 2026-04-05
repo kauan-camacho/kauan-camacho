@@ -43,9 +43,18 @@ target="_blank"><img src="https://img.shields.io/badge/-Gmail-indianred?style=fo
 />
 <img 
     align="left" 
+    alt="Linguagem C" 
+    title="Linguagem C"
+    width="36px" 
+    style="padding-right: 10px; margin-bottom: 40px;" 
+    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -53,10 +62,19 @@ target="_blank"><img src="https://img.shields.io/badge/-Gmail-indianred?style=fo
     align="left" 
     alt="Photoshop" 
     title="Photoshop"
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
 />
+<img
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="38px" 
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000"
+/>
+
 
 <br/>
 <br/>
